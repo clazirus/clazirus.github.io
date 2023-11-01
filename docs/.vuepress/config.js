@@ -3,7 +3,7 @@ module.exports = {
   description: "Tidbits and random stuff...or so I thought.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   base: "/",
-  dest: "./docs",
+  dest: "./dist",
 
   themeConfig: {
     search: false,
