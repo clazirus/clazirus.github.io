@@ -2,7 +2,7 @@ module.exports = {
   title: "Syaffiq Azwan",
   description: "Tidbits and random stuff...or so I thought.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
-  base: "/",
+  base: "./",
   dest: "./dist",
 
   themeConfig: {
